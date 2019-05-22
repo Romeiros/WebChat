@@ -7,3 +7,21 @@
 * Angular v7.2.15
 * NodeJS v10.13.0
 
+## Required
+
+* MongoDB v4.0
+* NodeJS v10.13.0
+
+## Usage
+
+Install dependencies in chatapp-backend and in chatapp-frontend with
+
+    npm install
+
+Run in chatapp-backend folder
+
+    nodemon server
+    
+Run in chatapp-frontend folder
+
+    ng serve
