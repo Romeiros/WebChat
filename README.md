@@ -14,7 +14,7 @@
 
 ## Usage
 
-Install dependencies in chatapp-backend and in chatapp-frontend with
+Install dependencies in chatapp-backend folder and in chatapp-frontend folder with
 
     npm install
 
