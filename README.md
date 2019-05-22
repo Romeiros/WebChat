@@ -25,3 +25,5 @@ Run in chatapp-backend folder
 Run in chatapp-frontend folder
 
     ng serve
+
+Example of app on Heroku https://murmuring-citadel-75691.herokuapp.com/
